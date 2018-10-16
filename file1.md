@@ -1,3 +1,3 @@
 # Hello, world?
 
-# Hello, Darkness my old friend. its richard here again!
+# Hello, Darkness my old friend. its Richard here again!
